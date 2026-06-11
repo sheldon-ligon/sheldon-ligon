@@ -1,4 +1,5 @@
-# Sheldon Ligon
+# Hello, I'm Sheldon Ligon
+<a href="https://www.linkedin.com/in/sligon10101/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Aspiring SOC Analyst focused on security monitoring, log analysis, incident investigation, cloud security awareness, and security automation.
 
