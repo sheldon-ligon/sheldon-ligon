@@ -58,17 +58,13 @@ Skills demonstrated:
 - MITRE ATT&CK mapping
 - Incident documentation
 
-Repository: Coming soon
+Repository: 
 
 ### SOC Investigation 002: PowerShell Activity Analysis
 Investigation of PowerShell execution using Sysmon and Splunk.
 
 Repository: Coming soon
 
-### SOC Investigation 003: Network Scan Detection
-Detection and analysis of network scanning activity using pfSense logs and Splunk.
-
-Repository: Coming soon
 
 ## Home Lab
 
